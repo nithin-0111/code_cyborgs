@@ -1,4 +1,4 @@
-# Traffic Optimization at KR Circle, Bangalore  
+# Intelligent Traffic Signal Optimization using Deep Q Learning 
 
 This project tackles the ever-growing traffic woes at KR Circle, one of Bangalore’s busiest junctions. We’ve combined the power of SUMO simulations with AI-driven traffic management to analyze and optimize traffic flow like never before.  
 
