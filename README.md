@@ -1,4 +1,4 @@
-# Intelligent Traffic Simulation and Optimization Project
+# Intelligent Traffic Simulation and Optimization 
 
 This project aims to analyze and optimize traffic flow at KR Circle in Bangalore using SUMO (Simulation of Urban Mobility) and a custom traffic management system implemented with Python and OpenCV. By combining simulation and real-world video analysis, the project provides insights into traffic patterns and optimizes signal timings for smoother traffic flow.
 
