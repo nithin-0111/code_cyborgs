@@ -76,8 +76,8 @@ Sample video inputs (stored in `./testingData/`):
 - `v2.mp4`  
 
 For each video, you’ll see:  
-- The maximum number of vehicles detected.  
-- The average green light time calculated for optimal traffic flow.  
+- The number of vehicles, emergency vehicle, etc., detected.  
+- The average green light time calculated for optimal traffic flow using the webster's formula.  
 
 ---
 
