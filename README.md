@@ -98,11 +98,6 @@ This project is licensed under the MIT License. Check out the [LICENSE](LICENSE)
 
 ---
 
-## Shoutouts  
-- The SUMO team for their amazing traffic simulation tools.  
-- Ultralytics YOLO for top-notch vehicle detection.  
-- PyTorch for enabling cutting-edge AI development.  
 
----  
 
 Happy traffic-optimizing! 🚦  
